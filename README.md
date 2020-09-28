@@ -1,3 +1,3 @@
 # Webathon-Portfolio
-Webathon Competition Project <br />
-Languages Used: HTML and CSS
+<b>Webathon Competition Project <br />
+<b>Languages Used: HTML and CSS
